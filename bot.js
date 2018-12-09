@@ -289,5 +289,5 @@ client.on('message', msg => {
 }
 })
 client.on('ready', () => {
-    client.channels.get("ايدي الروم").join(); 
+    client.channels.get("521197760993689600").join(); 
     });
